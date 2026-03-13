@@ -1,0 +1,11 @@
+{
+  "name": "shelby-storage-demo",
+  "version": "1.0.0",
+  "description": "A demo project using Shelby decentralized storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Le Binh",
+  "license": "MIT"
+}
